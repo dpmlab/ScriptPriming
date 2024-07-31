@@ -1,0 +1,33 @@
+sentence_number,storyText,locationEvent,socialEvent,story,socialAnswer,locationAnswer
+1,"Lana walked into lecture holding hands with her boyfriend, Aaron, who was trying to contain his excitement about proposing to Lana in this class.",1,1,24,,
+2,"Lana was lost in thought, puzzling over an integral on her problem set for another class.",1,1,,,
+3,"The lecture hall they had entered was the fanciest one at Princeton, with chandeliers, high ceilings, wood floors, and a large projector screen where chalkboards used to be. ",1,1,,,1
+4,Aaron and Lana had met in this lecture hall when they first started dating three years ago in freshman year.,1,1,,1,
+5,They coincidentally had another class together in this very same lecture hall. ,1,1,,,
+6,The professor caught Aaron's eye as he walked up to the front of the classroom and gave him a wink before the lecture began. ,1,1,,,
+7,Aaron flashed him a half-smile and nodded. ,1,1,,,
+8,"The professor cleared his throat and said,“Alright, good afternoon, everyone!",2,1,,,
+9,Welcome to another week of Introduction to Chemistry,2,1,,,2
+10,This week the topic is ions.,2,1,,,
+11,"Now, let me get my computer set up, and while I do that, does anyone want to tell me what makes elements definitionally distinct from one another?”",2,1,,,
+12,Lana pulled out the problem set she was thinking about as Aaron unzipped the small pocket in his backpack and pulled out the ring.,2,2,,,
+13,"Turning away from her, he looked it over yet again. ",2,2,,,
+14,"Instead of one large diamond, there were 5 red diamonds embedded in a thick band. ",2,2,,2,
+15,He knew Lana would like this because her style was more avant-garde than traditional.,2,2,,,
+16,"The professor said, “Remember, class, that the number of protons determines the identity of the element. ",3,2,,,3
+17,"So for example, all atoms of sodium have 11 protons in the nucleus. ",3,2,,,
+18,"And if you look on the periodic table, the atomic number for sodium, the symbol is Na, is eleven.",3,2,,,
+19,"An ion retains the same number of protons despite losing electrons, and therefore keeps the same identity in the periodic table. ",3,2,,,
+20,Lana and Aaron tried to take notes during the lecture.,3,2,,,
+21,The professor stopped the lecture and asked Lana and Aaron to come to the front of the class to do a demonstration. ,3,2,,,
+22,"They walked to the front of the class with Lana very confused, and when they got to the front Aaron got down on one knee and asked Lana to marry him. ",3,3,,,
+23,The professor quickly switched to the last slide on the powerpoint which was a photo collage Aaron had sent him of pictures of Aaron and Lana together. ,3,3,,,
+24,He opened the small notebook he had in his hand and the ring was sitting on the page. ,3,3,,3,
+25,"Lana had put her hand over her mouth and tears were streaming down her face, but finally, she said, “Yes!”",3,4,,,
+26,"Aaron put the ring on her finger, and they hugged while the whole class applauded and cheered. ",3,4,,,
+27,"Their friends, who had been secretly waiting outside, came into the class and embraced both of them.",3,4,,,
+28,The professor gave Aaron a celebratory handshake.,3,4,,,
+29,"They made their way back to their seats, and Lana pulled out her phone to text her sister.",3,4,,4,
+30,"The professor dismissed the class, saying, “That was enough excitement for today!",4,4,,,
+31,Don’t forget there’s a midterm exam next week on Monday on the material covered in the first 4 weeks of the semester.,4,4,,,4
+32,"As everyone was packing up their notebooks and leaving, Lana and Aaron were surrounded by their friends, who were eager to get a glimpse of the ring and congratulate them. ",4,4,,,

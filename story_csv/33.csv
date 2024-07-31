@@ -1,0 +1,33 @@
+sentence_number,storyText,locationEvent,socialEvent,story,socialAnswer,locationAnswer
+1,"Ms. Bianchi and Ms. Morrison walked into the grocery store at the same time, and, after a moment of mutual recognition, greeted each other with a handshake.",1,1,33,,
+2,"They were standing in the entrance of the grocery store, which had displays of pumpkins, candy, and halloween decorations set up in different stations around the door. ",1,1,,,1
+3,"“Thank you again for inviting me here to discuss my business proposal,” said Ms. Bianchi.",1,1,,,
+4,“It’s a pleasure to be out of the office.” ,1,1,,,
+5,"As an account representative for an Italian cheese company that was trying to expand its outreach to American grocery stores, this meeting was pivotal for Ms. Bianchi.",1,1,,1,
+6,"Her sales target, Ms. Morrison, was the senior purchasing manager for a corporate grocer and she had a say in the products distributed in stores across the West Coast.",1,1,,,
+7,"Ms. Morrison was also known for doing things unconventionally: for example, she said that she liked to make deals with suppliers in the place where the products were sold- “to keep their minds focused on what’s important.” ",1,1,,,
+8,"In the cheese section of the grocery store, Ms. Morrison motioned to the parmesan.",2,1,,,
+9,“We have quite a selection here.,2,1,,,
+10,I don’t know that we need an additional section for gourmet cheeses.” ,2,1,,,
+11,"Ms. Bianchi did not hesitate but launched into her pitch: “Ms. Morrison, I think you would agree that selling food is not just about providing variety, but also about providing the highest quality.",2,2,,,
+12,You don’t have cheeses made in America that are like ours- it is true.,2,2,,,
+13,The availability of a product of excellent quality leads to the appreciation of the product.,2,2,,,
+14,"Your consumers will want to buy other, finer products to compliment that first ingredient, and suddenly your customer will be consuming in a new, more profitable way.",2,2,,,
+15,"I propose that you give it a shot: buy $1500 worth of cheese products for a few stores, and see how the sales increase not only in our cheeses, but also in products related to cheeses like crackers, jams, and olives.”",2,2,,2,
+16,"Ms. Bianchi picked up a box of crackers by the cheese section, and said, “Here, I will buy these, and we can try some of our cheeses that I've brought with me.”",2,2,,,2
+17,"Ms. Morrison, who was thinking about the proposed offer, nodded in agreement and said, “That sounds like a great idea, but those crackers are on me.”",2,2,,,
+18,She took the crackers from Ms. Bianchi and also picked up a bottle of ketchup and a case of sparkling water “for later.”,2,2,,,
+19,It was very busy in the checkout area.,3,2,,,
+20,"People were stocking up for Halloween parties and trick-or-treating, and there were 10 aisles open. ",3,2,,,3
+21,They stepped into lane 6 and waited.,3,2,,,
+22,Ms. Bianchi handed to Ms. Morrison a packet with printed graphs of the increase in profits that several other stores in Italy had seen after starting to carry their products.,3,2,,,
+23,"After a couple minutes of thinking, Ms. Morrison widened her eyes and said confidently, “You know what, I think this could work. ",3,3,,,
+24,We've been trying to find a way to add a little European cachet to our stores.,3,3,,,
+25,"Our competitor, Orange Grocers, hasn’t expanded in this direction yet, and I’d like to beat them to it. ",3,3,,3,
+26,There's still a problem though- I'm worried we'll be paying out the nose for the import taxes.,3,3,,,
+27,"It was Ms. Morrison’s turn to check out, and the cashier chatted with Ms. Morrison as she scanned the items.",4,3,,,
+28,Ms. Morrison was also distinguished for knowing most of the employees personally. ,4,3,,,
+29,Ms. Bianchi watched in amusement as Ms. Morrison paid the $23 price by writing a check. ,4,3,,,4
+30,"After Ms. Bianci addressed Ms. Morrison’s concerns, they came to an agreement and would have enough cheese shipments, $20,000 worth, to different stores to qualify for a subsidized import tax. ",4,4,,,
+31,"Ms. Morrison had had a small bottle of champagne in her purse, and she pulled it out and popped it in celebration of their deal. ",4,4,,4,
+32,Ms. Bianchi decided that she loved doing business with Americans. ,4,4,,,

@@ -1,0 +1,165 @@
+17.8225 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x118506e10>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x111685c18>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+20.4470 	EXP 	Set  sound=C
+20.4471 	EXP 	/Applications/PsychoPy3.app/Contents/Resources/lib/python3.6/psychopy/microphone: switch on (48000hz) took 2.625s
+20.4471 	EXP 	window1: recordFrameIntervals = False
+20.6059 	EXP 	window1: recordFrameIntervals = True
+20.7891 	EXP 	window1: recordFrameIntervals = False
+21.2929 	EXP 	Created textTrigger = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='textTrigger', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='waiting for the scanner', units='height', win=Window(...), wrapWidth=1)
+21.4315 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='joan.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+21.7461 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+21.7549 	EXP 	textTrigger: autoDraw = True
+55.3582 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.6746 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.6916 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.7084 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.7293 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.7413 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.7576 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.8578 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.8738 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.8913 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.9127 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.9287 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.9405 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+55.9576 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+56.0794 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+66.7579 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.6904 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.6908 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.7068 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.7238 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.7449 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.7959 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8070 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8280 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8409 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8575 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8787 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.8916 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+67.9078 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+69.9575 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+69.9949 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.4747 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.4906 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.5077 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.5290 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.5456 	DATA 	Mouse: wheel shift=(0,-1), pos=(665,714)
+70.9077 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.9407 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+70.9789 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.4233 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.7114 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.7743 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.8121 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.8410 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.8624 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.8961 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.9241 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.9450 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.9581 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+79.9911 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.0077 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.0410 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.0959 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.1413 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.1739 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.2741 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.2901 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.3114 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.3244 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.3455 	DATA 	Mouse: wheel shift=(-1,0), pos=(665,714)
+80.3622 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.3748 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.3911 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.4081 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.4242 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.4412 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.4415 	DATA 	Mouse: wheel shift=(-1,0), pos=(665,714)
+80.4745 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.4907 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.5116 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.5244 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.5404 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.5741 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.6073 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.6784 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.6951 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7077 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7243 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7409 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7570 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7743 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.7904 	DATA 	Mouse: wheel shift=(-1,0), pos=(665,714)
+80.8075 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.8077 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.8282 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+80.8410 	DATA 	Mouse: wheel shift=(0,0), pos=(665,714)
+129.7660 	DATA 	Keypress: equal
+129.7773 	EXP 	textTrigger: autoDraw = False
+129.7773 	EXP 	image: autoDraw = True
+130.5124 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='beach.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+130.5308 	DATA 	Keypress: space
+130.5393 	EXP 	image: autoDraw = False
+130.7581 	DATA 	Keypress: equal
+131.7579 	DATA 	Keypress: equal
+132.7589 	DATA 	Keypress: equal
+133.7583 	DATA 	Keypress: equal
+134.7587 	DATA 	Keypress: equal
+135.7581 	DATA 	Keypress: equal
+136.7582 	DATA 	Keypress: equal
+137.7588 	DATA 	Keypress: equal
+138.7467 	DATA 	Keypress: equal
+139.7460 	DATA 	Keypress: equal
+140.7458 	DATA 	Keypress: equal
+141.7451 	DATA 	Keypress: equal
+142.7623 	DATA 	Keypress: equal
+143.7459 	DATA 	Keypress: equal
+144.7594 	DATA 	Keypress: equal
+145.7620 	DATA 	Keypress: equal
+146.7592 	DATA 	Keypress: equal
+147.7458 	DATA 	Keypress: equal
+148.7452 	DATA 	Keypress: equal
+149.7451 	DATA 	Keypress: equal
+150.7588 	DATA 	Keypress: equal
+151.7623 	DATA 	Keypress: equal
+152.7452 	DATA 	Keypress: equal
+153.7460 	DATA 	Keypress: equal
+154.7452 	DATA 	Keypress: equal
+155.7461 	DATA 	Keypress: equal
+156.7452 	DATA 	Keypress: equal
+157.7448 	DATA 	Keypress: equal
+158.7448 	DATA 	Keypress: equal
+159.7455 	DATA 	Keypress: equal
+160.7456 	DATA 	Keypress: equal
+161.7460 	DATA 	Keypress: equal
+162.7465 	DATA 	Keypress: equal
+163.7588 	DATA 	Keypress: equal
+164.7452 	DATA 	Keypress: equal
+165.7588 	DATA 	Keypress: equal
+166.7587 	DATA 	Keypress: equal
+167.7589 	DATA 	Keypress: equal
+168.7584 	DATA 	Keypress: equal
+169.7589 	DATA 	Keypress: equal
+170.7619 	DATA 	Keypress: equal
+171.7590 	DATA 	Keypress: equal
+172.1402 	EXP 	frequency of recording onset marker: 19000.0
+172.1405 	EXP 	Set mic_1.marker_tone sound=19000.0
+172.1407 	EXP 	Sound mic_1.marker_tone started
+172.1408 	DATA 	AdvAudioCapture mic_1: Record: onset 1635532870, capture 120.000s
+172.1471 	EXP 	AdvAudioCapture mic_1: Record: return immediately, no blocking
+172.1509 	DATA 	Keypress: space
+172.1567 	EXP 	text: autoDraw = True
+172.7457 	DATA 	Keypress: equal
+173.7597 	DATA 	Keypress: equal
+174.7630 	DATA 	Keypress: equal
+175.7627 	DATA 	Keypress: equal
+176.7596 	DATA 	Keypress: equal
+177.7597 	DATA 	Keypress: equal
+178.7597 	DATA 	Keypress: equal
+179.7598 	DATA 	Keypress: equal
+180.7597 	DATA 	Keypress: equal
+181.7596 	DATA 	Keypress: equal
+182.7402 	DATA 	AdvAudioCapture mic_1: Record stopped early, new duration 10.599s
+182.7421 	DATA 	Keypress: space
+182.7564 	EXP 	text: autoDraw = False
+182.7650 	EXP 	window1: mouseVisible = True

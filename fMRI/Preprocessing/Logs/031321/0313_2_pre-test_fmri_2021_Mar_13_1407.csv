@@ -1,0 +1,6 @@
+﻿textTrigger.started,textTrigger.stopped,getTrigger.keys,getTrigger.rt,getTrigger.started,getTrigger.stopped,image.started,image.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.started,key_resp_2.stopped,key_resp_4.keys,key_resp_4.rt,key_resp_4.started,key_resp_4.stopped,mic_1.filename,mic_1.started,mic_1.stopped,text.started,text.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+12.156104520999634,None,equal,55.12859720100005,12.156104520999634,None,,,,,,,,,,,,,,,,0313_2,001,2021_Mar_13_1407,pre-test_fmri,3.2.4,60.23446506466564,
+,,,,,,67.30705482199983,None,space,1.5393001069996899,67.30705482199983,None,,,,,,,,,,0313_2,001,2021_Mar_13_1407,pre-test_fmri,3.2.4,60.23446506466564,
+,,,,,,,,,,,,space,12.50760871600005,68.85689199799981,None,,,,,,0313_2,001,2021_Mar_13_1407,pre-test_fmri,3.2.4,60.23446506466564,
+,,,,,,,,,,,,,,,,/Users/columbiadpml/Documents/GitHub/ebs/fMRI experiment/psychopy code/data/0313_2_pre-test_fmri_2021_Mar_13_1407_wav/mic_1-1615662537.848.wav,0.0157898356997066,None,,,0313_2,001,2021_Mar_13_1407,pre-test_fmri,3.2.4,60.23446506466564,
+,,,,,,,,,,,,,,,,,,,68.85689199799981,None,,,,,,,

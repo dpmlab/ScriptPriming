@@ -1,0 +1,107 @@
+7.2475 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1117dfe10>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x11146d9b0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.8316 	EXP 	Set  sound=C
+9.8318 	EXP 	/Applications/PsychoPy3.app/Contents/Resources/lib/python3.6/psychopy/microphone: switch on (48000hz) took 2.584s
+9.8318 	EXP 	window1: recordFrameIntervals = False
+9.9970 	EXP 	window1: recordFrameIntervals = True
+10.1811 	EXP 	window1: recordFrameIntervals = False
+10.6072 	EXP 	Created textTrigger = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='textTrigger', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='waiting for the scanner', units='height', win=Window(...), wrapWidth=1)
+10.7451 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='joan.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+10.9205 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.9311 	EXP 	textTrigger: autoDraw = True
+29.3060 	DATA 	Keypress: equal
+29.3137 	EXP 	textTrigger: autoDraw = False
+29.3137 	EXP 	image: autoDraw = True
+30.2999 	DATA 	Keypress: equal
+30.7038 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='beach.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+30.7058 	DATA 	Keypress: space
+30.7145 	EXP 	image: autoDraw = False
+31.0666 	DATA 	Keypress: space
+31.2997 	DATA 	Keypress: equal
+32.3001 	DATA 	Keypress: equal
+33.2999 	DATA 	Keypress: equal
+34.3001 	DATA 	Keypress: equal
+35.2996 	DATA 	Keypress: equal
+36.2999 	DATA 	Keypress: equal
+36.5841 	DATA 	Keypress: tab
+37.2999 	DATA 	Keypress: equal
+38.2997 	DATA 	Keypress: equal
+39.2999 	DATA 	Keypress: equal
+40.3000 	DATA 	Keypress: equal
+41.3002 	DATA 	Keypress: equal
+42.3000 	DATA 	Keypress: equal
+43.2992 	DATA 	Keypress: equal
+44.2995 	DATA 	Keypress: equal
+45.2991 	DATA 	Keypress: equal
+46.2997 	DATA 	Keypress: equal
+47.2996 	DATA 	Keypress: equal
+48.2999 	DATA 	Keypress: equal
+49.2998 	DATA 	Keypress: equal
+50.2998 	DATA 	Keypress: equal
+51.3000 	DATA 	Keypress: equal
+52.3000 	DATA 	Keypress: equal
+53.2997 	DATA 	Keypress: equal
+54.2997 	DATA 	Keypress: equal
+55.2998 	DATA 	Keypress: equal
+56.2999 	DATA 	Keypress: equal
+57.2998 	DATA 	Keypress: equal
+58.3001 	DATA 	Keypress: equal
+59.3000 	DATA 	Keypress: equal
+60.2999 	DATA 	Keypress: equal
+61.2997 	DATA 	Keypress: equal
+62.3000 	DATA 	Keypress: equal
+63.2997 	DATA 	Keypress: equal
+64.2998 	DATA 	Keypress: equal
+65.2999 	DATA 	Keypress: equal
+66.3001 	DATA 	Keypress: equal
+67.2993 	DATA 	Keypress: equal
+68.2999 	DATA 	Keypress: equal
+69.3001 	DATA 	Keypress: equal
+70.3000 	DATA 	Keypress: equal
+71.3000 	DATA 	Keypress: equal
+72.2992 	DATA 	Keypress: equal
+73.3001 	DATA 	Keypress: equal
+74.3001 	DATA 	Keypress: equal
+75.2999 	DATA 	Keypress: equal
+76.2998 	DATA 	Keypress: equal
+77.3004 	DATA 	Keypress: equal
+78.3000 	DATA 	Keypress: equal
+79.2999 	DATA 	Keypress: equal
+79.8648 	EXP 	frequency of recording onset marker: 19000.0
+79.8650 	EXP 	Set mic_1.marker_tone sound=19000.0
+79.8652 	EXP 	Sound mic_1.marker_tone started
+79.8653 	DATA 	AdvAudioCapture mic_1: Record: onset 1635533148, capture 120.000s
+79.8660 	EXP 	AdvAudioCapture mic_1: Record: return immediately, no blocking
+79.8691 	DATA 	Keypress: space
+79.8811 	EXP 	text: autoDraw = True
+80.3000 	DATA 	Keypress: equal
+81.3004 	DATA 	Keypress: equal
+82.3022 	DATA 	Keypress: equal
+83.3001 	DATA 	Keypress: equal
+84.3021 	DATA 	Keypress: equal
+85.3019 	DATA 	Keypress: equal
+86.3022 	DATA 	Keypress: equal
+87.3020 	DATA 	Keypress: equal
+88.3021 	DATA 	Keypress: equal
+89.3003 	DATA 	Keypress: equal
+90.3004 	DATA 	Keypress: equal
+91.3004 	DATA 	Keypress: equal
+92.3004 	DATA 	Keypress: equal
+93.3002 	DATA 	Keypress: equal
+94.3003 	DATA 	Keypress: equal
+95.3004 	DATA 	Keypress: equal
+96.3003 	DATA 	Keypress: equal
+97.3005 	DATA 	Keypress: equal
+98.3005 	DATA 	Keypress: equal
+99.3010 	DATA 	Keypress: equal
+100.3007 	DATA 	Keypress: equal
+101.3006 	DATA 	Keypress: equal
+102.3003 	DATA 	Keypress: equal
+103.3005 	DATA 	Keypress: equal
+104.3003 	DATA 	Keypress: equal
+105.3020 	DATA 	Keypress: equal
+106.3011 	DATA 	Keypress: equal
+107.3008 	DATA 	Keypress: equal
+108.0146 	DATA 	AdvAudioCapture mic_1: Record stopped early, new duration 28.149s
+108.0167 	DATA 	Keypress: space
+108.0308 	EXP 	text: autoDraw = False
+108.0369 	EXP 	window1: mouseVisible = True
